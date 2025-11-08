@@ -8,7 +8,7 @@ i used my mutation engine from user mode to make it unique in memory on each loa
 
 ## could it be made undetected?
 
-not in this state, you'd have to find a different method of loading it which would require a rework of the base since it relies on being loaded with an accessible driverobject +
+sure, but difficult in this state, you'd have to find a different method of loading it which would require a rework of the base since it relies on being loaded with an accessible driverobject +
 its just spaghetti code tbh near to the end of developing it i just got lazy with organization, you can probably find better bases out there.
 at the time of using it for the p2c i was working for, it was undetected for 4-5 months straight on a couple hundred users. (until it got cracked)
 
@@ -16,3 +16,4 @@ at the time of using it for the p2c i was working for, it was undetected for 4-5
 
 its been sitting on my disk for like a year so i have nothing else to do with it im not using it again since ive since swapped to much better methods 
 its pretty shit overall, looking back i used really bad methods.
+ill upload everything on here soon but yeah
