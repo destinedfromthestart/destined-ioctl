@@ -8,7 +8,7 @@ i used my mutation engine from user mode to make it unique in memory on each loa
 
 ## could it be made undetected?
 
-not in this state, you'd have to find a different method of loading it which would require a rewolrk of the base since it relies on being loaded with an accessible driverobject
+not in this state, you'd have to find a different method of loading it which would require a rework of the base since it relies on being loaded with an accessible driverobject
 its just spaghetti code tbh near to the end of developing it i just got lazy with organization, you can probably find better bases out there
 
 ## why am i leaking this?
